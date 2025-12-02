@@ -1,0 +1,11 @@
+# CodeIgniter sessions et cache
+ci/writable/session/*
+ci/writable/cache/*
+!ci/writable/session/.gitkeep
+!ci/writable/cache/.gitkeep
+
+# Autres fichiers à ignorer
+ci/writable/logs/*
+*.log
+.env
+.DS_Store
